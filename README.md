@@ -29,9 +29,7 @@ python chatbot.py
 
 
 Example Usage
-vbnet
-Copy
-Edit
+
 🤖 Ask Me Anything Chatbot (type 'quit' to exit)
 You: What is the capital of India?
 Bot: The capital of India is New Delhi.
