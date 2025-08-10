@@ -21,6 +21,7 @@ pip install openai python-dotenv
 
 2. Create a .env file in the project folder and add your API key:
 
+
 ini
 Copy
 Edit
