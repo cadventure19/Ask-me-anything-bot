@@ -13,9 +13,10 @@ It maintains conversation history for more natural interactions and stores your 
 
 1. Install dependencies
 
-bash
+bash    
 Copy
 Edit
+
 pip install openai python-dotenv
 
 
