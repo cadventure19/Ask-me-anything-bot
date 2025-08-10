@@ -13,27 +13,17 @@ It maintains conversation history for more natural interactions and stores your 
 
 1. Install dependencies
 
-bash    
-Copy
-Edit
 
 pip install openai python-dotenv
 
 
 2. Create a .env file in the project folder and add your API key:
 
-
-ini
-Copy
-Edit
 OPENAI_API_KEY=your_api_key_here
 
 
 3. Run the chatbot
 
-bash
-Copy
-Edit
 python chatbot.py
 
 
